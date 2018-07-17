@@ -1,0 +1,854 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"a",
+				"access-info"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ti",
+				"title\t<title>"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"col-",
+				"col-contact"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"col",
+				"col-contact"
+			],
+			[
+				"ou",
+				"outline-color"
+			],
+			[
+				"in",
+				"inputt\tinput - tel"
+			],
+			[
+				"tex",
+				"textarea\t<textarea>"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"la",
+				"lang\tAttr"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"modal",
+				"modal-dialog"
+			],
+			[
+				"curr",
+				"currentmethod"
+			],
+			[
+				"call_use",
+				"call_user_func_array"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"g",
+				"getUrl"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"filtet",
+				"FILTER_SANITIZE_URL"
+			],
+			[
+				"filt",
+				"filter_var"
+			],
+			[
+				"U",
+				"url"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"requ",
+				"require_once"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"scrip",
+				"script\tTag"
+			],
+			[
+				"if",
+				"if.\tif (block)"
+			],
+			[
+				"TRA",
+				"transition"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"sarch",
+				"search"
+			],
+			[
+				"_",
+				"_query"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"C_",
+				"C_ID"
+			],
+			[
+				"sap",
+				"space-evenly"
+			],
+			[
+				"inpu",
+				"inputt\tinput - text"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"inp",
+				"inputt\tinput - text"
+			],
+			[
+				"ARR",
+				"arrayName"
+			],
+			[
+				"CONSOLE",
+				"console_log"
+			],
+			[
+				"form",
+				"FormData\t(${1:form})"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"ser",
+				"serialize"
+			],
+			[
+				"labe",
+				"label\tTag"
+			],
+			[
+				"lab",
+				"label\tTag"
+			],
+			[
+				"input",
+				"inputt\tinput - text"
+			],
+			[
+				"us",
+				"usuarios_form"
+			],
+			[
+				"CONSOL",
+				"console_log"
+			],
+			[
+				"inputd",
+				"inputd\tinput - datetime"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"mater",
+				"material.min.css"
+			],
+			[
+				"c-",
+				"c-summary\tSummary Comment"
+			],
+			[
+				"no",
+				"no-drop"
+			],
+			[
+				"use",
+				"user-select"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"lin",
+				"links\tlink - stylesheet"
+			],
+			[
+				"p_",
+				"p_cadena"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fo",
+				"for\tfor …"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"men",
+				"mensaje"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"pdo",
+				"PDOStatement"
+			],
+			[
+				"se",
+				"sentencia"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"qu",
+				"query__"
+			],
+			[
+				"call",
+				"CallProcedure"
+			],
+			[
+				"pra",
+				"param"
+			],
+			[
+				"fetch",
+				"fetch_array"
+			],
+			[
+				"fetc",
+				"FETCH_ASSOC"
+			],
+			[
+				"fec",
+				"fetch_array"
+			],
+			[
+				"name",
+				"name_procedure"
+			],
+			[
+				"par",
+				"param_tmp"
+			],
+			[
+				"param",
+				"param_tmp"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"na",
+				"name_procedure"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"len",
+				"length\t: int Function"
+			],
+			[
+				"http",
+				"$http\tAngularJS"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "curso-mean-social.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 194.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 542.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/UwAmp/www/curso-mean-social"
+	],
+	"file_history":
+	[
+		"/C/UwAmp/www/wolfy/views/app/css/reset.css",
+		"/C/UwAmp/www/Dev/app/templates/overall/layout.twig",
+		"/C/UwAmp/www/Dev/app/templates/home/home.twig",
+		"/C/UwAmp/www/Dev/app/controllers/homeController.php",
+		"/C/UwAmp/www/Dev/app/controllers/contactController.php",
+		"/C/UwAmp/www/Dev/assets/home/form.css",
+		"/C/UwAmp/www/Dev/Ocrend/Kernel/Config/Ocrend.ini.yml",
+		"/D/chomre/contact/form_process.txt",
+		"/C/UwAmp/www/rrhh-design/css/style-site-layout.css",
+		"/C/UwAmp/www/rrhh-design/header.php",
+		"/C/UwAmp/www/rrhh-design/index.php",
+		"/C/UwAmp/www/rrhh-design/css/style-site-login.css",
+		"/C/UwAmp/www/rrhh-design/login.php",
+		"/C/UwAmp/www/rrhh-design/css/main.css",
+		"/C/UwAmp/www/rrhh-design/employees.php",
+		"/C/UwAmp/www/rrhh-design/layout.php",
+		"/C/UwAmp/www/rrhh-design/footer.php",
+		"/C/UwAmp/www/rrhh-design/index.html",
+		"/C/UwAmp/www/rrhh/Ocrend/Kernel/Config/Ocrend.ini.yml",
+		"/C/UwAmp/www/montperuAngular/css/logo.css",
+		"/C/UwAmp/www/montperuAngular/index.html",
+		"/C/UwAmp/www/montperuAngular/pages/home.html",
+		"/C/Users/Cesar/Documents/Springer's Monograph Type SVM/book.tex",
+		"/C/UwAmp/www/montperuAngular/js/timer.js",
+		"/C/UwAmp/www/montperuAngular/js/script.js",
+		"/C/UwAmp/www/montperuAngular/css/style.css",
+		"/C/UwAmp/www/eventcalendar/css/modal.css",
+		"/C/UwAmp/www/Proyecto_Messages/css/style.css",
+		"/C/UwAmp/www/Proyecto_Messages/css/main.css",
+		"/C/UwAmp/www/eventcalendar/js/modal.js",
+		"/C/UwAmp/www/FullScreen Slide/css/montstyle.css",
+		"/C/UwAmp/www/appmontperu/.htaccess",
+		"/C/UwAmp/www/appmontperu/public/index.php",
+		"/C/UwAmp/www/appmontperu/app/init.php",
+		"/C/UwAmp/www/appmontperu/app/.htaccess",
+		"/C/UwAmp/www/appmontperu/public/.htaccess",
+		"/C/UwAmp/www/appmontperu/index.php",
+		"/C/UwAmp/www/PD/index.php",
+		"/E/Personal Folder/Developer Thown/UwAmp/www/MVC/Controllers/AccesoController.php",
+		"/E/Personal Folder/Developer Thown/UwAmp/www/MVC/config.php",
+		"/E/Personal Folder/Developer Thown/UwAmp/www/core/config.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/cesar.freitas/Desktop/Estandar de Trabajo/Estandar de desarrollo pisersa/ET_M19.cs",
+		"/C/Users/cesar.freitas/Documents/visual studio 2015/Projects/PisersaSolutionCotizador_byActecperu/Win32dtug/bin/Debug/Win32dtug.dll.config",
+		"/I/back/back__lenovo/DOCS/en desarrollo/tablas/DT_M19 (1).cs",
+		"/C/wamp64/www/my-app/Ocrend/Kernel/Config/Ocrend.ini.yml",
+		"/C/Users/cesar.freitas/Desktop/Estandar de Trabajo/Estandar de desarrollo pisersa/T_M31.xlsx",
+		"/C/Users/cesar.freitas/Desktop/actect/parte 1",
+		"/C/Users/cesar.freitas/Downloads/RE_ Proyecto Software Cotizador_ Cotización y mano de obra/parte 1.1.1",
+		"/C/Users/cesar.freitas/Desktop/Estandar de Trabajo/Estandar de desarrollo pisersa/frm_02.cs",
+		"/C/Users/cesar.freitas/Desktop/Estandar de Trabajo/Estandar de desarrollo pisersa/NT_M19.cs",
+		"/C/Users/cesar.freitas/Desktop/Estandar de Trabajo/Estandar de desarrollo pisersa/DT_M19 (1).cs",
+		"/C/Users/cesar.freitas/Desktop/VS/Solucion_4_capas/VIEWS/Form1.cs",
+		"/C/wamp64/www/my-app/app/templates/proveedores/proveedores_.twig",
+		"/C/wamp64/www/my-app/app/templates/usuarios/editar.twig",
+		"/C/wamp64/www/my-app/app/templates/proveedores/crear.twig",
+		"/C/wamp64/www/my-app/app/templates/proveedores/editar.twig",
+		"/C/wamp64/www/my-app/app/templates/proveedores/editar_.twig",
+		"/C/wamp64/www/my-app/app/templates/usuarios/editar_.twig",
+		"/C/wamp64/www/my-app/app/templates/proveedores/proveedores.twig",
+		"/C/wamp64/www/my-app/app/templates/usuarios/usuarios.twig",
+		"/C/wamp64/www/my-app/app/controllers/usuariosController.php",
+		"/C/wamp64/www/my-app/app/controllers/logoutController.php",
+		"/C/wamp64/www/my-app/app/templates/overall/layout.twig",
+		"/C/wamp64/www/my-app/views/app/css/Content/reset.css",
+		"/C/wamp64/www/my-app/views/app/css/Mant/style.css",
+		"/C/wamp64/www/my-app/app/models/Usuarios.php",
+		"/C/wamp64/www/my-app/Ocrend/Kernel/Database/Database.php",
+		"/C/wamp64/www/my-app/api/http/post.php",
+		"/C/wamp64/www/my-app/app/models/Users.php",
+		"/C/wamp64/www/my-app/views/app/js/usuarios/editar.js",
+		"/C/wamp64/www/my-app/views/app/js/usuarios/crear.js",
+		"/C/wamp64/www/my-app/app/templates/usuarios/crear.twig",
+		"/C/wamp64/www/my-app/views/app/css/Content/form_inputs.css",
+		"/C/wamp64/www/my-app/api/http/get.php",
+		"/C/wamp64/www/my-app/Ocrend/vendor/silex/silex/src/Silex/ControllerCollection.php",
+		"/C/wamp64/www/my-app/Ocrend/vendor/silex/silex/src/Silex/Application.php",
+		"/C/wamp64/www/my-app/views/app/js/Content/main.js",
+		"/D/Personal Folder/Developer Thown/Usb-WebServer Apache-MySQL-PHP5/root/monteza/Views/Default/JS/Producto_create.js",
+		"/C/wamp64/www/my-app/app/templates/usuarios/crear_.twig",
+		"/C/wamp64/www/my-app/views/app/css/Content/style.css",
+		"/C/wamp64/www/Sistema_para_escuelas/views/app/css/estilos_generales.css",
+		"/C/wamp64/www/my-app/views/app/css/Content/fomr.css",
+		"/D/Personal Folder/Developer Thown/Usb-WebServer Apache-MySQL-PHP5/root/monteza/Views/Default/JS/messages_es.js",
+		"/D/Personal Folder/Developer Thown/Usb-WebServer Apache-MySQL-PHP5/root/monteza/Views/Default/JS/Locale_create.js",
+		"/D/Personal Folder/Developer Thown/Usb-WebServer Apache-MySQL-PHP5/root/monteza/Views/Default/JS/Proveedor_create.js",
+		"/D/Personal Folder/Developer Thown/Usb-WebServer Apache-MySQL-PHP5/root/monteza/Views/Default/JS/Producto.js",
+		"/C/UwAmp/www/my-app/templates/plates/overall/mantenimientos_menu_app.phtml",
+		"/C/UwAmp/www/my-app/core/config.php",
+		"/D/Personal Folder/backups/escritorio lasts os/as.html",
+		"/D/Personal Folder/Developer Thown/host.cesar.freitas/www/Ocrend/Kernel/Generator/Generator.php",
+		"/C/Users/cesar.freitas/Desktop/SASA.html",
+		"/D/Personal Folder/Developer Thown/host.cesar.freitas/www/Ocrend/Kernel/Config/Ocrend.ini.yml",
+		"/C/Users/cesar.freitas/Desktop/as",
+		"/C/UniServerZ/core/mysql/us_opt.ini",
+		"/C/Users/cesar.freitas/Desktop/secondary-expandable-navigation/index.html",
+		"/D/Personal Folder/Descargas/rounded-animated-navigation/index.html",
+		"/D/Personal Folder/Developer Thown/host.cesar.freitas/www/views/app/vendor/materialLite/icon.css",
+		"/D/Personal Folder/Descargas/dataNov-30-2017 (1).sql",
+		"/D/Personal Folder/Descargas/dataNov-30-2017.sql",
+		"/D/Personal Folder/Descargas/rounded-animated-navigation/css/style.css",
+		"/D/Personal Folder/Developer Thown/host.cesar.freitas/www/views/app/css/style.css",
+		"/D/Personal Folder/Descargas/rounded-animated-navigation/css/reset.css",
+		"/C/Users/cesar.freitas/Desktop/ss.html",
+		"/C/Users/cesar.freitas/Desktop/h.html",
+		"/C/Users/cesar.freitas/Desktop/Eon Player Favorites",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/app/templates/overall/layout.twig",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/Ocrend/Kernel/Database/Database.php",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/app/templates/categoriaproducto/crear.twig",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/views/app/js/categoriaproducto/crear.js",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/views/app/js/categoriaproducto/obtener.js",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/app/models/Categoriaproducto.php",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/app/models/Cliente.php",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/views/app/css/framework.css",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/views/app/css/reset.css",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/app/templates/cliente/index.html",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/app/templates/cliente/listar.html",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/app/models/Pan.php",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/api/http/post.php",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/app/templates/overall/layout_back.twig",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/WolfyBeta/app/templates/overall/layout.twig",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/views/app/css/style.css",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/Ocrend/vendor/silex/silex/src/Silex/ControllerCollection.php",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/Ocrend/vendor/silex/silex/src/Silex/Application.php",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/Sql/t_cliente.sql",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/www/wolfy/Ocrend/Kernel/Config/Ocrend.ini.yml",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/core/apache2/conf/httpd.conf",
+		"/G/Dir.Server-Cesar.Freitas/UniServerZ/vhosts/wolfy/index.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 141.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "curso-mean-social.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-mean-social.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
